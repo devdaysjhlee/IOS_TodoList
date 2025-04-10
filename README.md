@@ -11,6 +11,8 @@
 
 Swift와 Xcode를 공부하면서 만들어본 MVVM 패턴을 활용한 간단한 To-do list 앱입니다. 
 
+매일의 할 일을 추가하고 삭제할 수 있습니다. 
+
 # 기능 설명
 
 ![0main](https://github.com/user-attachments/assets/8eebae7b-18ce-48e1-bd79-e1dc69d27e14)
