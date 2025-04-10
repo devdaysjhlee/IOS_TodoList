@@ -7,7 +7,7 @@
 - 간단 요약 : iOS 투두리스트 앱 개발해 할 일 생성, 삭제 기능 구현 
 - 사용 기술 : Xcode, Swift
 
-### 구체적 설명
+## 구체적 설명
 
 Swift와 Xcode를 공부하면서 만들어본 MVVM 패턴을 활용한 간단한 To-do list 앱입니다. 
 
@@ -77,7 +77,7 @@ List{}
 
 좌측으로 드래그하면 항목을 삭제할 수 있습니다. 
 
-### 디렉토리 구조
+# 디렉토리 구조
 
 ![8dir](https://github.com/user-attachments/assets/017edd15-5656-4397-80c8-36dca446124b)
 
