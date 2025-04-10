@@ -19,9 +19,7 @@ Swift와 Xcode를 공부하면서 만들어본 MVVM 패턴을 활용한 간단�
 
 메인 뷰인 TodoListView에서는 NavigationStack, VStack, List를 사용해 미완료와 완료 Section을 나누었습니다.
 
-사용자가 "할일 만들기" Button을 누르면 TodoListViewModel의 isPresented 상태를 toggle합니다. 
-
-이후 할 일을 추가할 수 있는 NewTodoListView modal 창이 띄워집니다.  
+사용자가 "할일 만들기" Button을 누르면 TodoListViewModel의 isPresented 상태를 toggle하고 할 일을 추가할 수 있는 NewTodoListView modal 창이 띄워집니다.  
 
 ![1makeTodo](https://github.com/user-attachments/assets/5456063e-94da-47fb-a87f-2ae9d84722fa)
 
